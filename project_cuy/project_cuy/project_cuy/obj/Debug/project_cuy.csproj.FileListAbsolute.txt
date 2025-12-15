@@ -1,0 +1,10 @@
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\bin\Debug\project_cuy.exe.config
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\bin\Debug\project_cuy.exe
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\bin\Debug\project_cuy.pdb
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\obj\Debug\project_cuy.csproj.AssemblyReference.cache
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\obj\Debug\project_cuy.Form1.resources
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\obj\Debug\project_cuy.Properties.Resources.resources
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\obj\Debug\project_cuy.csproj.GenerateResource.cache
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\obj\Debug\project_cuy.csproj.CoreCompileInputs.cache
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\obj\Debug\project_cuy.exe
+C:\Users\arana\OneDrive\Documentos\project_cuy\project_cuy\project_cuy\obj\Debug\project_cuy.pdb
